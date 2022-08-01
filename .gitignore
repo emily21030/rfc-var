@@ -1,3 +1,16 @@
+# auto-generated files
 .ipynb_checkpoints/
 .DS_Store
+
+# .txt file for jupyterlab
 gitignore
+
+# exclude files > 100 MB
+./.git/objects/bb/266e1ccec7c97b0fe9735ad2ef5b6598e40bd1
+./.git/objects/36/8bec32f24a8385a18ad44e8cc27a065be7eee8
+./.git/objects/83/6954db6941134e3d12ac022ef395a72c798df5
+./.git/objects/4f/e55d7517fde1016e7dae19f7fbd2368723c2f0
+./data/Kepler_FFI_Fits.csv
+./data/lc_data_new.out
+./data/Kepler_FFI_Stats.csv
+./data/Kepler_FFI.csv
