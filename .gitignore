@@ -9,6 +9,7 @@ gitignore
 # find . -size +100M | cat >> gitignore
 # ^ run in cmd line to generate filenames
 ./output/Kepler_FFI_Fits.csv
+./output/.ipynb_checkpoints/Kepler_FFI_Fits-checkpoint.csv
 ./output/Kepler_FFI_Stats.csv
 ./.git/objects/ad/69bc63b4c73c88c7597e969a4c6fd4867fa526
 ./.git/objects/bb/266e1ccec7c97b0fe9735ad2ef5b6598e40bd1
