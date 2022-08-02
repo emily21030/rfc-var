@@ -1,6 +1,6 @@
 # rfc-var
 
-Random forest classifier to predict stellar variability of Kepler stars.
+Random forest classifier to predict variability of main-sequence stars from Kepler FFIs.
 
 ## Large data files
 
