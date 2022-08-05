@@ -10,7 +10,6 @@ gitignore
 # ^ run in cmd line to generate filenames
 ./output/Kepler_FFI_Fits.csv
 ./output/.ipynb_checkpoints/Kepler_FFI_Fits-checkpoint.csv
-./output/Kepler_FFI_Stats.csv
 ./.git/objects/ad/69bc63b4c73c88c7597e969a4c6fd4867fa526
 ./.git/objects/bb/266e1ccec7c97b0fe9735ad2ef5b6598e40bd1
 ./.git/objects/f2/528d24f793ab272b613e3cafe9582eb8b2601c
