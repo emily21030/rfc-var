@@ -8,11 +8,9 @@ gitignore
 # exclude files > 100 MB
 # find . -size +100M | cat >> gitignore
 # ^ run in cmd line to generate filenames
-./output/Kepler_FFI_Fits.csv
 ./output/.ipynb_checkpoints/flux3-checkpoint.csv
 ./output/.ipynb_checkpoints/flux2-checkpoint.csv
 ./output/.ipynb_checkpoints/flux1-checkpoint.csv
-./output/.ipynb_checkpoints/Kepler_FFI_Fits-checkpoint.csv
 ./output/flux1.csv
 ./output/flux3.csv
 ./output/flux2.csv
